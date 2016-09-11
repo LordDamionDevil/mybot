@@ -1,0 +1,13 @@
+{
+    "EMAIL" : "MjIzODQ3MTgzMTIyODI1MjE3.CrR5dg.cuee7P8Vcsp9LJ-1YDRI7ESfhW8",
+    "LOGIN_TYPE" : "token",
+    "OWNER" : "82662823523516416",
+    "PASSWORD" : "",
+    "PREFIXES" : [
+        "SwiftLord!"
+    ],
+    "default" : {
+        "ADMIN_ROLE" : "Bot Admins",
+        "MOD_ROLE" : "Bot Mods"
+    }
+}
